@@ -26,10 +26,10 @@ The Invariant Visual Search Network (IVSN) model consists of a deep feed-forward
 ## Visual search in natural images
 
 ### COCO dataset
-IVSN_COCO.ipynb
+run IVSN_COCO.ipynb
 
 ### Natural dataset
-IVSN_natural.ipynb
+run IVSN_natural.ipynb
 
 
 ## Citation
