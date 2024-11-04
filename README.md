@@ -2,7 +2,7 @@
 # <p align=center> Finding any Waldo with zero-shot invariant and efficient visual search</p>
 
 This is the official PyTorch codes for the paper.  
->Zhang M, Feng J, Ma K T, et al. Finding any Waldo with zero-shot invariant and efficient visual search[J]. Nature communications, 2018, 9(1): 3730.
+>Zhang, Mengmi, et al. "Finding any Waldo with zero-shot invariant and efficient visual search." Nature communications 9.1 (2018): 3730.
 
 ![framework_img](images/IVSN_framework.png)
 
