@@ -12,6 +12,14 @@ Searching for a target object in a cluttered scene constitutes a fundamental cha
 <img src="images/IVSN_framework.png" alt="Editor" width="500">
 </div>
 
+## Code
+
+### COCO dataset
+IVSN_COCO.ipynb
+
+### Natural dataset
+IVSN_natural.ipynb
+
 
 ## Citation
 If you find our repo useful for your research, please cite us:
