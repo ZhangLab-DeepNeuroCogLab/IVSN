@@ -1,5 +1,5 @@
 
-# <p align=center> Finding any Waldo with zero-shot invariant and efficient visual search</p>
+# <p align=center> Finding any Waldo with Zero-Shot Invariant and Efficient Visual Search</p>
 ![Python 3.8](https://img.shields.io/badge/python-3.8-g) ![pytorch 1.12.0](https://img.shields.io/badge/pytorch-1.12.0-blue.svg)
 
 This is the official PyTorch codes for the paper. (Matlab codes [HERE](https://github.com/kreimanlab/VisualSearchZeroShot?tab=readme-ov-file)) 
