@@ -31,7 +31,7 @@ run IVSN_COCO.ipynb
 
 ### Natural dataset
 run IVSN_natural.ipynb
-
+You need to download the dataset from [HERE](https://github.com/kreimanlab/VisualSearchZeroShot)
 
 ## Citation
 If you find our repo useful for your research, please cite us:
