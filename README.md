@@ -27,7 +27,7 @@ The Invariant Visual Search Network (IVSN) model consists of a deep feed-forward
 ## Visual search in natural images
 
 ### Downlad dataset
-You need to download the dataset from [HERE](https://github.com/kreimanlab/VisualSearchZeroShot), then move the dataset to 'codes/dataset/'
+You need to download the dataset from [HERE](https://drive.google.com/file/d/1ti0MT860zGEUu18BCCe9QEBHa46yBnC_/view?usp=drive_link), then move the dataset to 'codes/dataset/'
 
 ### COCO dataset
 run IVSN_COCO.ipynb
